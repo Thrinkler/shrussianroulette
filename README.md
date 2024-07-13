@@ -1,1 +1,1 @@
-#shrussianroulette
+run it on your Linux PC with admin privileges and play with your friends
