@@ -1,9 +1,11 @@
 #!/bin/bash
 
+bala= (($RANDOM % 6))
+
 g=$(($RANDOM % 6))
 echo $g
 
-if [ "$g" -eq 3 ]
+if [ "$g" -eq bala ]
 then
 	echo YOU FUCKED UP
 
